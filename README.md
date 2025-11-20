@@ -32,25 +32,19 @@ Este proyecto desarrolla una aplicación en Python para automatizar la lectura, 
 ## Instalación y Uso
 1. **Preparación del entorno:**  
     *Se realiza la activación del entorno virtual:*  
-        '''
-        source venv/bin/activate  # Linux/Mac
-        venv\Scripts\activate  # Windows
-        '''
+        - source venv/bin/activate  (Linux/Mac)
+        - venv\Scripts\activate  (Windows)
         
-        *Dado el caso salte un error de seguridad, usar el siguiente comando:*  
-
-        '''  
-        Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-        '''
+    *Dado el caso salte un error de seguridad, usar el siguiente comando:*  
+        - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 2. **Instalación de dependencias:**  
-    '''
-    pip install pydicom pandas numpy
-    '''  
+    
+    - pip install pydicom pandas numpy
+     
     *Para descompresión de imágenes (e.g., JPEG Lossless en MR):*  
-    '''
-    pip install pylibjpeg pylibjpeg-libjpeg  # O python-gdcm
-    '''
+        - pip install pylibjpeg pylibjpeg-libjpeg  # O python-gdcm
+    
 
 3. **Ejecución:**  
     - Coloca archivos DICOM en un directorio.  
