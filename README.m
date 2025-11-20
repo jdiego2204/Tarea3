@@ -1,4 +1,4 @@
-# Procesador de Archivos DICOM - Taller Evaluativo Informática 2: Unidad 3
+#Procesador de Archivos DICOM - Taller Evaluativo Informática 2: Unidad 3
 
 **Integrantes del equipo:**  
 Juan Diego Quintero.
