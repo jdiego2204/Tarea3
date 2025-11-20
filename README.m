@@ -7,10 +7,10 @@ Juan Diego Quintero.
 Este proyecto desarrolla una aplicación en Python para automatizar la lectura, extracción y almacenamiento de metadatos de archivos DICOM. Utilizando la librería 'pydicom'
 
 ## Contenido del repositorio 
-- 'script.py': Código principal que implementa la funcionalidad de procesamiento DICOM.
-- 'README.md': Documentación del proyecto.
-- 'venv': Carpeta del entorno virtual con las dependencias necesarias.
-- 'Anonymized_20251120': Carpeta de ejemplo con archivos DICOM para pruebas.
+- **script.py**: Código principal que implementa la funcionalidad de procesamiento DICOM.
+- **README.md**: Documentación del proyecto.
+- **venv**: Carpeta del entorno virtual con las dependencias necesarias.
+- **Anonymized_20251120**: Carpeta de ejemplo con archivos DICOM para pruebas.
 
 ## Funcionamiento del código
 - El código carga archivos DICOM de un directorio especificado por el usuario. Para la realización del código se usó una carpeta extraida de una librería pública: https://www.dicomlibrary.com/meddream/?study=1.2.826.0.1.3680043.8.1055.1.20111103111148288.98361414.79379639 
