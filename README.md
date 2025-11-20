@@ -41,9 +41,11 @@ Este proyecto desarrolla una aplicación en Python para automatizar la lectura, 
 2. **Instalación de dependencias:**  
     
     - pip install pydicom pandas numpy
-     
+    
     *Para descompresión de imágenes (e.g., JPEG Lossless en MR):*  
-        - pip install pylibjpeg pylibjpeg-libjpeg  # O python-gdcm
+        - pip install pylibjpeg pylibjpeg-libjpeg 
+        - pip install python-gdcm
+        - pip install Pillow
     
 
 3. **Ejecución:**  
