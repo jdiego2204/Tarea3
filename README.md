@@ -32,20 +32,20 @@ Este proyecto desarrolla una aplicación en Python para automatizar la lectura, 
 ## Instalación y Uso
 1. **Preparación del entorno:**  
     *Se realiza la activación del entorno virtual:*  
-        - source venv/bin/activate  (Linux/Mac)
-        - venv\Scripts\activate  (Windows)
+    - source venv/bin/activate  (Linux/Mac)
+    - venv\Scripts\activate  (Windows)
         
     *Dado el caso salte un error de seguridad, usar el siguiente comando:*  
-        - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+    - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 2. **Instalación de dependencias:**  
     
     - pip install pydicom pandas numpy
     
     *Para descompresión de imágenes (e.g., JPEG Lossless en MR):*  
-        - pip install pylibjpeg pylibjpeg-libjpeg 
-        - pip install python-gdcm
-        - pip install Pillow
+    - pip install pylibjpeg pylibjpeg-libjpeg 
+    - pip install python-gdcm
+    - pip install Pillow
     
 
 3. **Ejecución:**  
