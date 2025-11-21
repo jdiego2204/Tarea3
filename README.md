@@ -1,7 +1,8 @@
 # Procesador de Archivos DICOM - Taller Evaluativo Informática 2: Unidad 3
 
 **Integrantes del equipo:**  
-Juan Diego Quintero.
+Juan Diego Quintero Vanegas
+Paula Alejandra Hios
 
 ## Descripción del Proyecto
 Este proyecto desarrolla una aplicación en Python para automatizar la lectura, extracción y almacenamiento de metadatos de archivos DICOM. Utilizando la librería 'pydicom'
