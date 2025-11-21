@@ -2,6 +2,7 @@
 
 **Integrantes del equipo:**  
 Juan Diego Quintero Vanegas
+
 Paula Alejandra Hios
 
 ## Descripción del Proyecto
